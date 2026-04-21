@@ -1,71 +1,55 @@
-# CBR+PNK — Traduction Française (Babele)
+# MOSH-FR — Traduction française de Mothership pour Foundry VTT
 
-Module de traduction française pour **CBR+PNK** sur Foundry VTT V13.  
-Lore et univers : **Night City / Cyberpunk RED / Cyberpunk 2077**.
+Module de traduction française du système **Mothership RPG (1ère édition)** pour Foundry VTT, basé sur [Babele](https://foundryvtt.com/packages/babele/).
 
 ---
 
 ## Prérequis
 
-| Dépendance | Version |
-|---|---|
-| Foundry VTT | V13+ |
-| Système CBRPNK | 1.05+ |
-| Module Babele | Dernière version |
+- [Foundry VTT](https://foundryvtt.com/) v13+
+- Système [Mothership](https://foundryvtt.com/packages/mosh) (mosh)
+- Module [Babele](https://foundryvtt.com/packages/babele/) v3+
 
 ---
 
 ## Installation
 
-1. Placer le dossier `cbrpnk-fr/` dans `Data/modules/`
-2. Activer le module dans Foundry : **Gestion des modules → CBR+PNK Traduction Française**
-3. S'assurer que **Babele** est également activé
-4. Recharger Foundry
+Dans Foundry VTT, allez dans **Modules** → **Installer un module** et collez l'URL suivante :
+
+```
+https://raw.githubusercontent.com/Darshyne/mosh-fr/main/module.json
+```
+
+Activez ensuite le module dans votre monde et passez la langue du client en **Français**.
 
 ---
 
-## Contenu
+## Compendiums traduits
 
-### `fr.json` — Traduction de l'interface système
-Traduit tous les éléments d'interface du système CBRPNK :
-- Types d'acteurs et d'items
-- Approches (Agressif, Rusé, Empathique, Furtif)
-- Compétences (Analyser, Athlétisme, Combat Rapproché, Codage…)
-- Équipement, Harm, résultats de jets (Critique, Succès, Partiel, Échec)
-- Messages de Surcharge, Souffler, Résistance
-
-### `compendiums/` — Traduction des compendiums via Babele
-| Fichier | Contenu |
+| Compendium | Contenu |
 |---|---|
-| `cbrpnk.runner.json` | Runners — personnages joueurs |
-| `cbrpnk.hunter.json` | Chasseurs — antagonistes élites |
-| `cbrpnk.augmentation.json` | Augmentations cybernétiques |
-| `cbrpnk.rolltable.json` | Tables aléatoires Night City |
+| Classes (1e) | Marine, Androïde, Scientifique, Travailleur |
+| Player Skills (1e) | 42 compétences |
+| Equipment (1e) | 73 objets d'équipement |
+| Weapons (1e) | 24 armes |
+| Armor (1e) | 15 tenues et armures |
+| Conditions (1e) | 50 conditions |
+| Rolltables (1e) | 14 tables (blessures, panique, maintenance…) |
+| Hotbar Macros (1e) | 11 macros de barre rapide |
+
+La traduction de l'interface du système (stats, jets, menus) est incluse via le fichier `fr.json`.
 
 ---
 
-## Tables Aléatoires — Night City
+## Sources
 
-Les tables de la run (Objectif, Lieu, Cible, Charge Utile, Statut, etc.) sont nommées
-et décrites en français avec le lore Night City pour une immersion maximale.
-
-Le format des tables est compatible avec le **Roll Table Importer** module de Foundry.
+- Traduction basée sur **Mothership FR COMPLET** — version française officielle du *Player's Survival Guide*
+- Système Foundry : [fvtt_mosh_1e_psg](https://foundryvtt.com/packages/mosh) par Tuesday Knight Games
 
 ---
 
-## Lore Night City
+## Crédits
 
-Ce module utilise l'univers de **Cyberpunk RED** et **Cyberpunk 2077** (CD Projekt Red / R. Talsorian Games)
-pour nommer et décrire les éléments de jeu. Il ne reproduit pas de contenu protégé.
-
----
-
-## Contribution
-
-Pour signaler une erreur de traduction ou proposer une amélioration, modifier directement
-les fichiers JSON et soumettre vos corrections.
-
----
-
-*CBR+PNK est créé par Emanoel Melo, publié par Mythopoeia.*  
-*Basé sur Blades in the Dark de John Harper (One Seven Design), CC BY 3.0.*
+- **Darshyne** — traduction et intégration Foundry
+- **Tuesday Knight Games** — auteurs de Mothership RPG
+- **Simone Ricciardi** — auteur de Babele
