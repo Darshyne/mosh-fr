@@ -1,0 +1,176 @@
+{
+    "label": "Player Skills (1e)",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Artificial Intelligence": {
+            "name": "Intelligence Artificielle",
+            "description": "<p>L'étude de l'intelligence telle que démontrée par les machines.</p>"
+        },
+        "Surgery": {
+            "name": "Chirurgie",
+            "description": "<p>Opérer manuellement sur des sujets biologiques vivants ou morts.</p>"
+        },
+        "Asteroid Mining": {
+            "name": "Minage d'Astéroïde",
+            "description": "<p>Formation aux outils et procédures utilisés pour l'extraction minière des astéroïdes.</p>"
+        },
+        "Hand-to-Hand Combat": {
+            "name": "Corps-à-Corps",
+            "description": "<p>Combat au corps à corps, bagarre, arts martiaux, etc.</p>"
+        },
+        "Athletics": {
+            "name": "Athlétisme",
+            "description": "<p>Condition physique, sports et jeux.</p>"
+        },
+        "Robotics": {
+            "name": "Robotique",
+            "description": "<p>Conception, maintenance et exploitation de robots, drones et androïdes.</p>"
+        },
+        "Wilderness Survival": {
+            "name": "Survivalisme",
+            "description": "<p>Connaissances pratiques concernant les besoins essentiels à la vie <em>(nourriture, eau, abri)</em> dans un environnement naturel.</p>"
+        },
+        "Hyperspace": {
+            "name": "Hyperespace",
+            "description": "<p>Voyage plus rapide que la lumière.</p>"
+        },
+        "Theology": {
+            "name": "Théologie",
+            "description": "<p>L'étude du divin ou la dévotion à une religion.</p>"
+        },
+        "Rimwise": {
+            "name": "Vie aux Confins",
+            "description": "<p>Connaissances pratiques concernant les colonies de la bordure extérieure, leurs coutumes et les parties les plus sombres de la galaxie.</p>"
+        },
+        "Explosives": {
+            "name": "Explosifs",
+            "description": "<p>Conception et utilisation efficace d'engins explosifs <em>(bombes, grenades, obus, mines terrestres, etc.).</em></p>"
+        },
+        "Zoology": {
+            "name": "Biologie",
+            "description": "<p>L'étude de la vie animale.</p>"
+        },
+        "Mysticism": {
+            "name": "Mysticisme",
+            "description": "<p>Appréhension spirituelle de connaissances cachées.</p>"
+        },
+        "Physics": {
+            "name": "Physique",
+            "description": "<p>Étude de la matière, du mouvement, de l'énergie et de leurs effets dans l'espace et le temps.</p>"
+        },
+        "Pharmacology": {
+            "name": "Pharmacologie",
+            "description": "<p>Étude des médicaments et traitements.</p>"
+        },
+        "Mathematics": {
+            "name": "Mathématiques",
+            "description": "<p>L'étude des nombres, des quantités et de l'espace.</p>"
+        },
+        "Linguistics": {
+            "name": "Linguistique",
+            "description": "<p>L'étude des langues <em>(vivantes, mortes et non découvertes).</em></p>"
+        },
+        "Chemistry": {
+            "name": "Chimie",
+            "description": "<p>L'étude de la matière et de ses éléments et composés chimiques.</p>"
+        },
+        "Botany": {
+            "name": "Botanique",
+            "description": "<p>L'étude de la vie végétale.</p>"
+        },
+        "Psychology": {
+            "name": "Psychologie",
+            "description": "<p>L'étude du comportement et de l'esprit humain.</p>"
+        },
+        "Military Training": {
+            "name": "Formation Militaire",
+            "description": "<p>Formation de base dispensée à tout le personnel militaire.</p>"
+        },
+        "Jury-Rigging": {
+            "name": "Bricolage",
+            "description": "<p>Réparation improvisée, en utilisant uniquement les outils et matériaux disponibles.</p>"
+        },
+        "Engineering": {
+            "name": "Ingénierie",
+            "description": "<p>La conception, la construction et l'utilisation de moteurs, machines et structures.</p>"
+        },
+        "Field Medicine": {
+            "name": "Premiers Soins",
+            "description": "<p>Soins médicaux d'urgence et traitement sur le terrain.</p>"
+        },
+        "Piloting": {
+            "name": "Pilotage",
+            "description": "<p>Exploitation et contrôle d'aéronefs, de vaisseaux spatiaux et autres véhicules.</p>"
+        },
+        "Archaeology": {
+            "name": "Archéologie",
+            "description": "<p>Cultures et artefacts anciens.</p>"
+        },
+        "Industrial Equipment": {
+            "name": "Engins de Chantier",
+            "description": "<p>L'utilisation sûre et appropriée de machines et outils lourds <em>(exosquelettes, chariots élévateurs, foreuses, brise-roches, découpeurs laser, etc.).</em></p>"
+        },
+        "Zero-G": {
+            "name": "Zéro-G",
+            "description": "<p>Pratique et savoir-faire du travail dans le vide, orientation, utilisation d'une combinaison spatiale, etc.</p>"
+        },
+        "Ecology": {
+            "name": "Écologie",
+            "description": "<p>L'étude des organismes et de leur relation avec leur environnement.</p>"
+        },
+        "Exobiology": {
+            "name": "Xénobiologie",
+            "description": "<p>L'étude et la recherche de vie extraterrestre intelligente.</p>"
+        },
+        "Geology": {
+            "name": "Géologie",
+            "description": "<p>L'étude des caractéristiques solides de toute planète tellurique ou de ses satellites.</p>"
+        },
+        "Xenoesotericism": {
+            "name": "Xénoésotérisme",
+            "description": "<p>Croyances obscures, mysticisme et religion concernant les entités non humaines.</p>"
+        },
+        "Cybernetics": {
+            "name": "Cybernétique",
+            "description": "<p>Les interfaces physiques et neuronales entre les organismes et les machines.</p>"
+        },
+        "Art": {
+            "name": "Art",
+            "description": "<p>L'expression ou l'application de la capacité créative et de l'imagination d'une espèce.</p>"
+        },
+        "Computers": {
+            "name": "Informatique",
+            "description": "<p>Utilisation courante des ordinateurs et de leurs réseaux.</p>"
+        },
+        "Mechanical Repair": {
+            "name": "Réparation Mécanique",
+            "description": "<p>Réparation de machines défectueuses.</p>"
+        },
+        "Hacking": {
+            "name": "Hacking",
+            "description": "<p>Accès non autorisé aux systèmes informatiques et aux réseaux.</p>"
+        },
+        "Pathology": {
+            "name": "Pathologie",
+            "description": "<p>Étude des causes et des effets des maladies.</p>"
+        },
+        "Firearms": {
+            "name": "Armes à Feu",
+            "description": "<p>Utilisation sûre et efficace des armes à feu.</p>"
+        },
+        "Command": {
+            "name": "Commandement",
+            "description": "<p>Leadership, management et autorité.</p>"
+        },
+        "Planetology": {
+            "name": "Planétologie",
+            "description": "<p>Étude des planètes et autres corps célestes.</p>"
+        },
+        "Sophontology": {
+            "name": "Sophontologie",
+            "description": "<p>L'étude du comportement et de l'esprit des entités non humaines.</p>"
+        }
+    }
+}

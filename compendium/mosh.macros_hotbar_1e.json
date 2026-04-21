@@ -1,0 +1,38 @@
+{
+    "label": "Macros Barre Rapide (1e)",
+    "entries": {
+        "Stat Check": {
+            "name": "Test de Caractéristique"
+        },
+        "Cover": {
+            "name": "Couvert"
+        },
+        "Gain Calm": {
+            "name": "Gagner du Calme"
+        },
+        "Relieve Stress": {
+            "name": "Soulager le Stress"
+        },
+        "Panic Check": {
+            "name": "Test de Panique"
+        },
+        "Death Save": {
+            "name": "Jet de Mort"
+        },
+        "Gain Stress": {
+            "name": "Gagner du Stress"
+        },
+        "Wound Roll": {
+            "name": "Jet de Blessure"
+        },
+        "Rest Save": {
+            "name": "Jet de Repos"
+        },
+        "Save": {
+            "name": "Jet de Sauvegarde"
+        },
+        "Lose Calm": {
+            "name": "Perdre du Calme"
+        }
+    }
+}

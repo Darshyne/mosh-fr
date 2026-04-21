@@ -1,0 +1,300 @@
+{
+    "label": "Equipment (1e)",
+    "mapping": {
+        "description": "system.description"
+    },
+    "entries": {
+        "Chemlight": {
+            "name": "Bâton Lumineux",
+            "description": "<p>Petits bâtons lumineux jetables capables d'éclairer faiblement dans un rayon d'1 m.</p>"
+        },
+        "Electronic Tool Set": {
+            "name": "Trousse d'Outils Électroniques",
+            "description": "<p>Un ensemble complet d'outils pour effectuer des travaux de réparation ou de construction détaillés sur des appareils électroniques.</p>"
+        },
+        "Leash": {
+            "name": "Laisse",
+            "description": "<p>Une sangle ou corde pour retenir et guider un chien ou un autre animal.</p>"
+        },
+        "Cat": {
+            "name": "Chat",
+            "description": "<p>Un animal au corps souple et robuste, aux réflexes vifs, aux dents acérées et aux griffes rétractiles adaptées à la chasse de petites proies comme les souris et les rats. Sa vision nocturne et son odorat sont très développés.</p>"
+        },
+        "Toolbelt": {
+            "name": "Ceinture à Outils",
+            "description": "<p>Une ceinture en cuir pour transporter des outils.</p>"
+        },
+        "Duct Tape": {
+            "name": "Ruban Adhésif",
+            "description": "<p>Un ruban adhésif durable qui peut être facilement déchiré à la main. Il convient à une utilisation intérieure et extérieure grâce à sa résistance et son imperméabilité.</p>"
+        },
+        "Salvage Drone": {
+            "name": "Drone de Récupération",
+            "description": "<p>Drone télécommandé fonctionnant sur <strong>batterie</strong>. Nécessite deux mains pour opérer le récepteur. Peut voler jusqu'à 450 m de hauteur, à une distance de 3 km de l'opérateur. Autonomie de 2 heures. Peut enregistrer et transmettre des images au récepteur. Si acheté séparément, peut être équipé de deux des éléments suivants : <strong>jumelles, brouilleur radio, compteur Geiger, découpeur laser, scanner médical, localisateur personnel, lunettes infrarouges, balise de détresse, scanner de diagnostic cybernétique, bioscanner.</strong> Peut transporter jusqu'à 20-30 kg.</p>"
+        },
+        "Radiation Pills": {
+            "name": "Pilules Anti-Radiation",
+            "description": "<p>Subissez [[/r 1d5]] DMG et réduisez votre <strong>Niveau de Radiation</strong> de 1 pendant [[/r 2d10]] minutes.</p>"
+        },
+        "Prescription Pad": {
+            "name": "Carnet d'Ordonnances",
+            "description": "<p>Un carnet de notes pharmaceutiques contenant des détails d'ordonnances, des prescriptions et d'autres informations.</p>"
+        },
+        "Satchel": {
+            "name": "Sacoche",
+            "description": "<p>Un sac à bandoulière, traditionnellement utilisé pour transporter des livres.</p>"
+        },
+        "Rebreather": {
+            "name": "Rebreather",
+            "description": "<p>Lorsqu'il est porté, filtre l'air toxique et/ou permet de respirer sous l'eau pendant 20 minutes sans remonter à la surface. Peut être connecté à un <strong>réservoir d'oxygène</strong>.</p>"
+        },
+        "Foldable Stretcher": {
+            "name": "Brancard Pliable",
+            "description": "<p>Brancard portable tenant dans un <strong>sac à dos</strong>. Permet de sangler le patient en sécurité et de le transporter vers un endroit où ses blessures pourront être mieux traitées. Se déplie sur environ 2 m.</p>"
+        },
+        "Camping Gear": {
+            "name": "Matériel de Camping",
+            "description": "<p>Un ensemble d'équipements liés au camping. Exemples : tente, sacs de couchage et kit de cuisine.</p>"
+        },
+        "Paracord (50m)": {
+            "name": "Corde Tactique (50 m)",
+            "description": "<p>Corde en nylon légère et polyvalente.</p>"
+        },
+        "Heads-Up Display (HUD)": {
+            "name": "Affichage Tête Haute (HUD)",
+            "description": "<p>Souvent porté par les Marines, le HUD permet au porteur de voir à travers les <strong>caméras corporelles</strong> des autres membres de son unité et peut se connecter à toute arme équipée d'un <strong>smart-link</strong>.</p>"
+        },
+        "Stimpak": {
+            "name": "Stimpak",
+            "description": "<p>Soigne la cryomaladie, réduit 1 Stress <em>(ou augmente le Calme de 1d10)</em>, restaure 1d10 points de Santé et accorde [+] à tous les jets pendant [[/r 1d10]] min.<br><br>Lancez [[/r 1d10]]. Si vous obtenez un résultat inférieur au nombre de doses prises dans les dernières 24 heures, effectuez un <strong>Jet de Mort</strong>.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.qbq694JMbXeZrHjj]{-1 Stress} ou @UUID[Compendium.mosh.macros_triggered_1e.k2TtLFOG9mGaWVx3]{+1d10 Calme}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.f8Q9FCZsnUyAbczE]{+1d10 Santé}<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.NsRHfRuuNGPfkYVf]{Jet de Mort}</p>"
+        },
+        "Body Cam": {
+            "name": "Caméra Corporelle",
+            "description": "<p>Caméra portée sur les vêtements qui peut diffuser des images en direct vers un centre de contrôle pour que vos coéquipiers voient ce que vous voyez. Ajoutez la <strong>vision nocturne</strong> <em>(+300 cr)</em> ou la <strong>vision thermique</strong> <em>(+1 000 cr).</em></p>"
+        },
+        "Flashlight": {
+            "name": "Lampe Torche",
+            "description": "<p>Portable ou fixée à l'épaule. Éclaire 10 m devant l'utilisateur.</p>"
+        },
+        "Lockpick Set": {
+            "name": "Kit de Crochetage",
+            "description": "<p>Un ensemble d'outils hautement perfectionné destiné au piratage de systèmes de sas basiques et de portes électroniques.</p>"
+        },
+        "Ammo": {
+            "name": "Munitions",
+            "description": "<p>Un approvisionnement en munitions, substances explosives et projectiles destinés aux pistolets, canons et autres armes.</p>"
+        },
+        "Assorted Tools": {
+            "name": "Outils Divers",
+            "description": "<p><strong>Clés à molette, clés plates, tournevis</strong>, etc. Peuvent être utilisés comme armes en cas d'urgence, infligeant [[/r 1d5]] dégâts.</p>"
+        },
+        "Mylar Blanket": {
+            "name": "Couverture Mylar",
+            "description": "<p>Couverture légère en matériau réfléchissant la chaleur. Souvent utilisée pour la régulation thermique des patients souffrant d'un froid extrême ou d'un autre traumatisme.</p>"
+        },
+        "Long-range Comms": {
+            "name": "Communicateur Longue Portée",
+            "description": "<p>Dispositif de communication de la taille d'un sac à dos pour les communications surface-vaisseau.</p>"
+        },
+        "Spanner": {
+            "name": "Clé à Molette",
+            "description": "<p>Un outil offrant une prise et un avantage mécanique pour appliquer un couple aux objets à tourner.</p>"
+        },
+        "Challenge Coin": {
+            "name": "Pièce de Corps",
+            "description": "<p>Une petite pièce ou médaillon portant l'insigne ou l'emblème d'une organisation, porté par les membres de cette organisation.</p>"
+        },
+        "Tennis Ball": {
+            "name": "Balle de Tennis",
+            "description": "<p>Une balle rebondissante jaune fluorescent conçue pour le sport du tennis.</p>"
+        },
+        "VIP Corporate Key Card": {
+            "name": "Badge d'Accès VIP",
+            "description": "<p>Une carte plastique contenant des données sur une bande magnétisée intégrée permettant de déverrouiller électroniquement une porte ou d'activer une machine.</p>"
+        },
+        "Rat": {
+            "name": "Rat",
+            "description": "<p>Les rats sont des rongeurs de taille moyenne avec une longue queue. Ils sont diurnes et vivent sous terre.</p>"
+        },
+        "Infrared Goggles": {
+            "name": "Lunettes Infrarouges",
+            "description": "<p>Permet au porteur de voir les signatures thermiques, parfois jusqu'à plusieurs heures après. Ajoutez la <strong>vision nocturne</strong> pour <em>(+300 cr).</em></p>"
+        },
+        "Head Lamp": {
+            "name": "Lampe Frontale",
+            "description": "<p>Lampe fixée sur le front ou sur un casque pour éclairer devant l'utilisateur.</p>"
+        },
+        "Cybernetic Diagnostic Scanner": {
+            "name": "Scanner de Diagnostic Cybernétique",
+            "description": "<p>Permet à l'utilisateur de scanner les androïdes et autres organismes cybernétiques afin de diagnostiquer tout problème physique ou mental. Souvent mal vu par les androïdes.</p>"
+        },
+        "Lunch Box": {
+            "name": "Boîte à Lunch",
+            "description": "<p>Un contenant portable utilisé pour transporter de la nourriture.</p>"
+        },
+        "Oxygen Tank": {
+            "name": "Réservoir d'Oxygène",
+            "description": "<p>Lorsqu'il est fixé à une <strong>combinaison spatiale</strong>, fournit jusqu'à 12 heures d'oxygène dans des conditions normales, 4 heures dans des conditions difficiles. Explosif.</p>"
+        },
+        "MoHab Unit": {
+            "name": "Unité MoHab",
+            "description": "<p><strong>Tente, gourde, réchaud, sac à dos, boussole</strong> et <strong>sac de couchage.</strong></p>"
+        },
+        "Extension Cord (20m)": {
+            "name": "Rallonge (20 m)",
+            "description": "<p>Un câble électrique souple avec une fiche d'un côté et une ou plusieurs prises de l'autre.</p>"
+        },
+        "Subsurface Scanner": {
+            "name": "Scanner de Sous-Surface",
+            "description": "<p>Un outil utilisé pour scanner le terrain à la recherche de divers objets ou matériaux dans un rayon de 6 mètres.</p>"
+        },
+        "Jump-9 Ticket": {
+            "name": "Billet Jump-9",
+            "description": "<p>Un document indiquant le coût du voyage spatial, le nom du passager et les détails du voyage.</p>"
+        },
+        "Smart-link Add-On": {
+            "name": "Module Smart-link",
+            "description": "<p>Offre la visée à distance, l'enregistrement et l'utilisation à distance d'une arme à distance, ainsi que <strong>+5 DMG à l'arme.</strong></p>"
+        },
+        "MRE": {
+            "name": "Ration de Combat",
+            "description": "<p>« Repas prêt à manger. » Rations de terrain individuelles et autonomes en emballage léger. Chacune contient de quoi nourrir une personne pendant une journée <em>(eau non incluse).</em></p>"
+        },
+        "Rucksack": {
+            "name": "Sac à Dos",
+            "description": "<p>Grand sac à dos robuste et imperméable.</p>"
+        },
+        "Short-range Comms": {
+            "name": "Communicateur Courte Portée",
+            "description": "<p>Permet la communication de vaisseau à vaisseau sur une distance raisonnable, ainsi que surface à surface sur une douzaine de kilomètres. Bloqué par un <strong>brouilleur radio</strong>.</p>"
+        },
+        "Binoculars": {
+            "name": "Jumelles",
+            "description": "<p>Grossissement ×20. Ajoutez la <strong>vision nocturne</strong> <em>(+300 cr)</em> ou la <strong>vision thermique</strong> <em>(+1 000 cr).</em></p>"
+        },
+        "Drill": {
+            "name": "Perceuse",
+            "description": "<p>Un outil électrique utilisé pour percer des trous étroits ou pour enfoncer des vis dans du bois ou d'autres matériaux durs.</p>"
+        },
+        "Pet (Organic)": {
+            "name": "Animal de Compagnie (Organique)",
+            "description": "<p>Animal de compagnie organique de petite à moyenne taille. Les animaux plus grands ou rares coûtent [[/r 2d10*200000]] cr.</p>"
+        },
+        "Briefcase": {
+            "name": "Mallette",
+            "description": "<p>Un sac ou une valise à côtés rigides et de forme étroite, principalement utilisé pour transporter des documents et équipé d'une poignée.</p>"
+        },
+        "Automed": {
+            "name": "Automed",
+            "description": "<p>Pilules nanotechnologiques qui aident votre corps à réparer les Dégâts en accordant un Avantage aux Jets de Constitution destinés à repousser maladies et poisons, ainsi qu'aux tentatives de guérison par le repos.</p>"
+        },
+        "Battery (High Power)": {
+            "name": "Batterie (Haute Puissance)",
+            "description": "<p>Batterie haute performance pour alimenter les <strong>découpeurs laser, drones de récupération</strong> et autres équipements. Peut être rechargée en 1 heure sur secteur ou en 6 heures par énergie solaire. Ajoutez l'<strong>imperméabilisation</strong> <em>(+500 cr)</em>.</p>"
+        },
+        "Screwdriver": {
+            "name": "Tournevis",
+            "description": "<p>Un outil à main pour tourner les vis, composé d'un manche fixé à une tige longue et étroite, généralement en métal.</p>"
+        },
+        "Water Filtration Device": {
+            "name": "Filtre à Eau",
+            "description": "<p>Peut pomper 4 litres d'eau filtrée par heure, même depuis les marécages les plus saumâtres.</p>"
+        },
+        "Vial of Acid": {
+            "name": "Fiole d'Acide",
+            "description": "<p>Un acide minéral corrosif et puissant. Il est corrosif pour les yeux, la peau et les muqueuses.</p>"
+        },
+        "Emergency Beacon": {
+            "name": "Balise de Détresse",
+            "description": "<p>Un petit dispositif qui envoie une fusée éclairante puis émet un bip sonore toutes les quelques secondes. Envoie également un appel sur toutes les fréquences radio aux vaisseaux ou véhicules à proximité, mais peut être bloqué par un <strong>brouilleur radio</strong>.</p>"
+        },
+        "Jetpack": {
+            "name": "Jetpack",
+            "description": "<p>Permet au porteur de voler jusqu'à 100 m de hauteur et à une vitesse de 100 km/h pendant 2 heures sur un réservoir de carburant. Inflige [[/r {1d100,1d100}kh]]{1d100 [+]} DMG s'il est détruit. Le carburant peut être rechargé pour 200 cr.</p>"
+        },
+        "Portable Computer Terminal": {
+            "name": "Terminal Informatique Portable",
+            "description": "<p>Écran d'ordinateur plat, clavier et interface permettant à l'utilisateur de pirater des ordinateurs et réseaux existants, ainsi que d'effectuer des tâches informatiques standard.</p>"
+        },
+        "Filter Mask": {
+            "name": "Masque Filtrant",
+            "description": "<p>Un respirateur purificateur d'air qui protège en filtrant les particules de l'air respiré par l'utilisateur.</p>"
+        },
+        "Dog": {
+            "name": "Chien",
+            "description": "<p>Sous-espèce du loup gris, les chiens sont connus pour être des compagnons fidèles et loyaux, protecteurs de leurs maîtres et de leur territoire.</p>"
+        },
+        "Utility Knife": {
+            "name": "Couteau Utilitaire",
+            "description": "<p>Un type de couteau utilisé pour les travaux manuels généraux.</p>"
+        },
+        "Vaccine": {
+            "name": "Vaccin",
+            "description": "<p>Une injection antivirale ou antibactérienne préparée pour stimuler la réponse immunitaire de l'organisme contre les maladies.</p>"
+        },
+        "Six Pack of Beer": {
+            "name": "Pack de 6 Bières",
+            "description": "<p>Six bouteilles de bière importée.</p>"
+        },
+        "Geiger Counter": {
+            "name": "Compteur Geiger",
+            "description": "<p>Détecte les <strong>radiations</strong> et affiche les niveaux de radiation.</p>"
+        },
+        "Cigarettes": {
+            "name": "Cigarettes",
+            "description": "<p>Un produit du tabac en forme de tube composé de feuilles de tabac finement coupées et séchées enroulées dans du papier fin. 20 cigarettes par paquet.</p>"
+        },
+        "Personal Locator": {
+            "name": "Localisateur Personnel",
+            "description": "<p>Permet aux membres de l'équipage dans un centre de contrôle <em>(ou sur la passerelle d'un vaisseau)</em> de suivre la position du porteur.</p>"
+        },
+        "Radio Jammer": {
+            "name": "Brouilleur Radio",
+            "description": "<p>Dispositif de la taille d'un sac à dos qui, une fois activé, rend tous les signaux radio dans un rayon de 100 km incompréhensibles.</p>"
+        },
+        "Sample Collection Kit": {
+            "name": "Kit de Collecte d'Échantillons",
+            "description": "<p>Utilisé pour étudier la xénoflore et la xénofaune sur le terrain. Peut relever des signes vitaux, des échantillons d'ADN et collecter d'autres données sur des matériaux étrangers. Les résultats peuvent ne pas être immédiats et peuvent nécessiter un laboratoire pour une analyse complète.</p>"
+        },
+        "Exoloader": {
+            "name": "Exosquelette de Chantier",
+            "description": "<p>Exosquelette mécanique à air libre utilisé pour le levage de charges lourdes <em>(jusqu'à 5 000 kg).</em> Les pinces du chargeur infligent 1 Blessure. L'utilisateur ne peut porter que la Tenue d'Équipage Standard ou la Tenue de Combat Standard lors de l'utilisation. Fonctionne sur <strong>batterie</strong> <em>(48 heures d'utilisation).</em></p>"
+        },
+        "Patch Kit": {
+            "name": "Kit de Réparation",
+            "description": "<p>Répare les <strong>combinaisons spatiales</strong> perforées ou déchirées, restaurant leur étanchéité. Les combinaisons réparées ont une PA de 1.</p>"
+        },
+        "Pet (Synthetic)": {
+            "name": "Animal de Compagnie (Synthétique)",
+            "description": "<p>Animal de compagnie synthétique de petite à moyenne taille. Les animaux plus grands ou rares coûtent [[/r 2d10*15000]] cr.</p>"
+        },
+        "First Aid Kit": {
+            "name": "Trousse de Premiers Secours",
+            "description": "<p>Un assortiment de pansements et de traitements pour aider à stopper les saignements, bander les plaies et traiter d'autres blessures mineures.</p>"
+        },
+        "Explosives & Detonator": {
+            "name": "Explosifs & Détonateur",
+            "description": "<p>Charge explosive suffisamment puissante pour faire sauter un sas. Tous les organismes à Courte Portée doivent réussir un Jet de Constitution ou subir une Blessure (Explosion). Le détonateur fonctionne à Longue Portée, mais peut être bloqué par un <strong>brouilleur radio</strong>.</p>"
+        },
+        "Mag-boots": {
+            "name": "Bottes Magnétiques",
+            "description": "<p>Offre une adhérence magnétique au porteur, lui permettant de marcher facilement sur l'extérieur d'un vaisseau <em>(dans l'espace, à quai ou en apesanteur)</em>, sur des astéroïdes à base métallique ou toute autre surface magnétique.</p>"
+        },
+        "Defibrillator": {
+            "name": "Défibrillateur",
+            "description": "<p>Un dispositif qui envoie une impulsion électrique ou un choc au cœur pour rétablir un rythme cardiaque normal.</p>"
+        },
+        "Bioscanner": {
+            "name": "Bioscanner",
+            "description": "<p>Longue Portée. Permet à l'utilisateur de détecter des signes de vie. Peut indiquer l'emplacement des signes de vie, mais pas leur nature. Bloqué par certains matériaux à la discrétion du Gardien.</p>"
+        },
+        "Shovel": {
+            "name": "Pelle",
+            "description": "<p>Un outil à lame large et plate avec des côtés généralement relevés, utilisé pour déplacer du charbon, de la terre, de la neige ou d'autres matériaux.</p>"
+        },
+        "Medscanner": {
+            "name": "Scanner Médical",
+            "description": "<p>Permet à l'utilisateur de scanner un corps vivant ou mort pour analyser les maladies ou anomalies, sans avoir à effectuer de biopsie ou d'autopsie. Les résultats peuvent ne pas être immédiats et peuvent nécessiter un laboratoire pour une analyse complète.</p>"
+        }
+    }
+}

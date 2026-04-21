@@ -1,0 +1,42 @@
+{
+  "id": "mosh-fr",
+  "title": "MOSH-FR — Traduction française",
+  "description": "Traduction française du système Mothership pour Foundry VTT V13",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "mosh FR Community"
+    }
+  ],
+  "compatibility": {
+    "minimum": "13",
+    "verified": "13"
+  },
+  "esmodules": [
+    "babele-register.js"
+  ],
+  "relationships": {
+    "systems": [
+      {
+        "id": "mosh",
+        "type": "system"
+      }
+    ],
+    "requires": [
+      {
+        "id": "babele",
+        "type": "module"
+      }
+    ]
+  },
+  "languages": [
+    {
+      "lang": "fr",
+      "name": "French / Français",
+      "path": "fr.json"
+    }
+  ],
+"url": "https://github.com/Darshyne/mosh-fr",
+"manifest": "https://raw.githubusercontent.com/TON_PSEUDO/mosh-fr/main/module.json",
+"download": "https://github.com/TON_PSEUDO/mosh-fr/releases/latest/download/mosh-fr.zip"
+}

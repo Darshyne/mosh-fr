@@ -1,0 +1,29 @@
+{
+    "label": "Classes (1e)",
+    "mapping": {
+        "description": "system.description",
+        "trauma_response": "system.trauma_response"
+    },
+    "entries": {
+        "Android": {
+            "name": "Androïde",
+            "description": "<strong>Les Androïdes</strong> sont un ajout aussi terrifiant que fascinant à n'importe quel équipage. Leur inhumanité froide a tendance à mettre les autres membres de l'équipage mal à l'aise.",
+            "trauma_response": "LES JETS DE PEUR DES JOUEURS ALLIÉS PROCHES SONT EFFECTUÉS AVEC DÉSAVANTAGE."
+        },
+        "Scientist": {
+            "name": "Scientifique",
+            "description": "<strong>Les Scientifiques</strong> sont des médecins, des chercheurs, ou toute personne souhaitant disséquer des créatures <em>(ou des membres d'équipage infectés)</em> au scalpel.",
+            "trauma_response": "CHAQUE FOIS QUE VOUS RATEZ UN JET DE SAN, TOUS LES JOUEURS ALLIÉS PROCHES GAGNENT 1 STRESS."
+        },
+        "Marine": {
+            "name": "Marine",
+            "description": "<strong>Les Marines</strong> sont efficaces au combat, mais lorsqu'ils paniquent, cela peut causer des problèmes au reste de l'équipage.",
+            "trauma_response": "CHAQUE FOIS QUE VOUS PANIQUEZ, CHAQUE JOUEUR ALLIÉ PROCHE DOIT EFFECTUER UN JET DE PEUR."
+        },
+        "Teamster": {
+            "name": "Travailleur",
+            "description": "<strong>Les Travailleurs</strong> sont des ouvriers de l'espace coriaces et terre-à-terre : mécaniciens, ingénieurs, mineurs et pilotes.",
+            "trauma_response": "UNE FOIS PAR SESSION, VOUS POUVEZ BÉNÉFICIER D'UN AVANTAGE SUR UN TEST DE PANIQUE."
+        }
+    }
+}

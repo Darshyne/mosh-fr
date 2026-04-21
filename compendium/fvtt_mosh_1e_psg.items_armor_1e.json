@@ -1,0 +1,84 @@
+{
+    "label": "Armor (1e)",
+    "mapping": {
+        "description": "system.description",
+        "features": "system.features"
+    },
+    "entries": {
+        "Standard Crew Attire": {
+            "name": "Tenue d'Équipage Standard",
+            "description": "<p>Vêtements de base.</p>",
+            "features": ""
+        },
+        "Hazard Suit": {
+            "name": "Combinaison de Sécurité",
+            "description": "<p>Protection environnementale pour l'exploration de planètes inconnues.<br><br><strong>Inclut</strong> filtre à air, protection contre la chaleur et le froid extrêmes, récupération d'hydratation <em>(1 L d'eau dure 4 jours)</em>, communicateur courte portée, lampe frontale et blindage anti-radiation.</p>",
+            "features": ""
+        },
+        "Heavy Duty Work Clothes": {
+            "name": "Vêtements de Travail Renforcés",
+            "description": "<p>Casque de chantier, salopette robuste et gants.</p>",
+            "features": ""
+        },
+        "Dress Uniform": {
+            "name": "Tenue de Cérémonie",
+            "description": "<p>Tenue formelle pour un officier militaire décoré.</p>",
+            "features": ""
+        },
+        "Civilian Clothes": {
+            "name": "Vêtements Civils",
+            "description": "<p>Jean et t-shirt.</p>",
+            "features": ""
+        },
+        "Lab Coat": {
+            "name": "Blouse de Laboratoire",
+            "description": "<p>Une blouse blanche portée par-dessus des vêtements civils.</p>",
+            "features": ""
+        },
+        "Vaccsuit": {
+            "name": "Combinaison Spatiale",
+            "description": "<p>Conçue pour les opérations en espace extérieur.<br><br><strong>Inclut</strong> communicateur courte portée, lampe frontale et blindage anti-radiation. Dépressurisation en [[/r 1d5]] rounds si perforée.</p>",
+            "features": ""
+        },
+        "Advanced Battle Dress": {
+            "name": "Tenue de Combat Avancée",
+            "description": "<p>Armure lourde pour les Marines déployés dans des engagements de combat intensif hors planète.<br><br><strong>Inclut</strong> communicateur courte portée, caméra corporelle, lampe frontale, HUD, armure exosquelettique <em>(Tests de Force [+])</em> et blindage anti-radiation.</p>",
+            "features": ""
+        },
+        "Scrubs": {
+            "name": "Tenue Médicale",
+            "description": "<p>Blouse chirurgicale stérilisée, gants et masque.</p>",
+            "features": ""
+        },
+        "Fatigues": {
+            "name": "Treillis",
+            "description": "<p>Uniforme militaire standard.</p>",
+            "features": ""
+        },
+        "Standard Battle Dress": {
+            "name": "Tenue de Combat Standard",
+            "description": "<p>Armure légèrement blindée portée par la plupart des Marines.<br><br><strong>Inclut</strong> communicateur courte portée.</p>",
+            "features": ""
+        },
+        "Corporate Attire": {
+            "name": "Tenue Corporative",
+            "description": "<p>Costume et cravate ajustés.</p>",
+            "features": ""
+        },
+        "Lounge Wear": {
+            "name": "Tenue de Détente",
+            "description": "<p>Pyjama confortable.</p>",
+            "features": ""
+        },
+        "Tank Top & Camo Pants": {
+            "name": "Débardeur & Pantalon Camouflage",
+            "description": "<p>Tenue militaire décontractée pour les heures de repos.</p>",
+            "features": ""
+        },
+        "Manufacturer Supplied Attire": {
+            "name": "Combinaison Fournie par le Fabricant",
+            "description": "<p>Combinaison légère et fonctionnelle.</p>",
+            "features": ""
+        }
+    }
+}

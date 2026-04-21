@@ -1,0 +1,259 @@
+{
+    "label": "Conditions (1e)",
+    "mapping": {
+        "description": "system.description",
+        "treatment": "system.treatment.html"
+    },
+    "entries": {
+        "Insane": {
+            "name": "Aliéné",
+            "description": "<p>Vous devenez définitivement et irrémédiablement fou. Votre personnage est désormais joué par le Gardien.</p>",
+            "treatment": ""
+        },
+        "Starving": {
+            "name": "Affamé",
+            "description": "<p>Les humains peuvent survivre environ 3 semaines sans nourriture. <strong>Après 24 heures sans manger, vous avez Désavantage à tous les jets.</strong><br><br>Pour le strict minimum de survie, vous avez besoin d'1 litre d'eau par jour. À ce niveau, toute activité intense <em>(ex. : courir, combattre, effectuer des réparations)</em> vous oblige à réussir un Jet de Constitution ou perdre connaissance. <strong>Lorsque l'eau est rare et que vous la gérez aussi précisément, vous avez Désavantage à tous les jets.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "treatment": ""
+        },
+        "Suspicious": {
+            "name": "Suspicieux",
+            "description": "<p>Pendant une semaine, chaque fois que quelqu'un rejoint l'équipage <em>(même après une courte absence)</em>, faites un Jet de Peur ou gagnez 1 Stress.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Jet de Peur}</p>",
+            "treatment": ""
+        },
+        "Extreme Heat": {
+            "name": "Chaleur Extrême",
+            "description": "<p>Dans la plupart des cas, un climat chaud n'a pas d'effets notables. Cependant, dans des endroits de chaleur extrême, effectuez des Jets de Constitution toutes les heures ou succombez à la Chaleur Extrême.<br><br>Une chaleur extrême supérieure à 40 °C peut provoquer une insolation et tuer en quelques heures. Les victimes doivent immédiatement se déplacer vers un endroit plus frais pour faire baisser leur température.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "treatment": ""
+        },
+        "Spiraling": {
+            "name": "Effondrement",
+            "description": "<p>Les Tests de Panique sont effectués avec [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.EwZbGIwHB3JuRvx5]{Test de Panique [-]}</p>",
+            "treatment": ""
+        },
+        "Severe Anxiety": {
+            "name": "Anxiété Sévère",
+            "description": "<p>Vous perdez le double de Calme de toutes les sources.</p>",
+            "treatment": ""
+        },
+        "Panicky": {
+            "name": "Paniqué",
+            "description": "<p>Chaque fois que vous effectuez un Jet de Peur, lancez sous votre Peur ou votre Calme, selon le plus bas des deux.</p>",
+            "treatment": ""
+        },
+        "Bit Rot": {
+            "name": "Corruption de Données",
+            "description": "<p>Chaque fois que vous récupérez du Calme, récupérez-en deux fois moins.</p>",
+            "treatment": ""
+        },
+        "Threat Assessment Failure": {
+            "name": "Échec d'Évaluation des Menaces",
+            "description": "<p>Vous perdez la capacité de distinguer ami et ennemi, traitant toutes les entités vaguement humanoïdes comme des membres de votre équipage.</p>",
+            "treatment": ""
+        },
+        "Anhedonia": {
+            "name": "Anhédonie",
+            "description": "<p>Chaque fois que vous récupérez du Calme, récupérez-en deux fois moins.</p>",
+            "treatment": ""
+        },
+        "Worship Danger": {
+            "name": "Culte du Danger",
+            "description": "<p>Vous devenez nihilistement dévoué à la Source du Danger. Tous les autres ont Désavantage aux jets contre elle. Tous les autres effectuent un Jet de Peur lorsqu'ils échouent à agir contre le danger ou gagnent une Phobie.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Jet de Peur}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.RTL29CqdaAriGSTS]{+1 Phobie}</p>",
+            "treatment": ""
+        },
+        "Nightmares": {
+            "name": "Cauchemars",
+            "description": "<p>Le sommeil est difficile, effectuez les Jets de Repos avec [-].<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.AM9nIK5l7mC5Ho8C]{Jet de Repos [-]}</p>",
+            "treatment": ""
+        },
+        "Phobia": {
+            "name": "Phobie",
+            "description": "<p>Gagnez une nouvelle phobie permanente. Chaque fois que vous rencontrez cette phobie, effectuez un Jet de Peur avec Désavantage.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.wVhApjRP5MXue2kh]{Jet de Peur [-]}</p>",
+            "treatment": ""
+        },
+        "Ethical Directive Misread": {
+            "name": "Directive Éthique Mal Interprétée",
+            "description": "<p>Perd toute expressivité. Discute de l'irrationalité des Phobies et cherche à les déclencher chez les autres.</p>",
+            "treatment": ""
+        },
+        "The Bends": {
+            "name": "Le Doute",
+            "description": "<p>Vous doutez de la vraie nature de votre identité. Si vous êtes humain, vous avez commencé à croire que vous pourriez être un androïde avec des souvenirs implantés. Si vous êtes un androïde, vous avez commencé à croire que vous êtes une vraie personne.<br><br>La gravité de cette condition commence à 5, sauf si vous possédez toujours votre <strong>Bibelot</strong> de création de personnage, auquel cas elle commence à 0. Le Doute ne peut jamais être réduit en dessous de 5, sauf si vous ne perdez jamais le contrôle de votre Bibelot. Alors ne le perdez jamais. <strong>Jamais.</strong></p>",
+            "treatment": ""
+        },
+        "Deviant Logic Core": {
+            "name": "Noyau Logique Déviant",
+            "description": "<p>Chaque fois que vous effectuez un Jet de Peur, lancez sous votre Peur ou votre Calme, selon le plus bas des deux.</p>",
+            "treatment": ""
+        },
+        "Recurring Nightmares": {
+            "name": "Cauchemars Récurrents",
+            "description": "<p>Chaque fois que vous vous reposez, effectuez un Jet de Peur. En cas d'échec, perdez 1d10 Calme et ne guérissez pas. Le Gardien décrira votre cauchemar.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calme}</p>",
+            "treatment": ""
+        },
+        "Toxic Atmosphere": {
+            "name": "Atmosphère Toxique",
+            "description": "<p>Les planètes à atmosphère toxique nécessitent un équipement spécial pour être explorées, sinon il y a un risque de blessure ou de mort.<br><br>L'atmosphère de la planète n'est pas respirable, mais est par ailleurs sûre. Un rebreather ou une armure avec son propre apport en oxygène est nécessaire. Sans cela, <strong>les personnages subissent 1d10 DMG par round, Jet de Constitution pour la moitié.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.w3ttEaXP7yp25M5Q]{-1d10 Santé}</p>",
+            "treatment": ""
+        },
+        "Suffocating": {
+            "name": "Asphyxie",
+            "description": "<p>Dans l'espace, vous pouvez survivre 15 secondes sans oxygène avant de perdre connaissance. Après avoir perdu connaissance, vous pouvez survivre [[/r 1d5]] minutes avant de mourir.<br><br>Si tous les systèmes de survie d'un vaisseau tombent en panne, lancez [[/r 1d10]] et multipliez par la capacité maximale d'équipage. C'est la réserve d'oxygène restante.<br><br><strong>Toutes les 24 heures, soustrayez le nombre total de membres d'équipage respirants de la réserve d'oxygène restante.</strong> Les membres d'équipage effectuant une activité intense <em>(ex. : courir, combattre, effectuer des réparations)</em> réduisent chacun la réserve de 2 supplémentaires.<br><br><strong>Lorsque la réserve d'oxygène est inférieure au double du nombre de passagers respirants,</strong> tous les jets sont effectués avec Désavantage car l'équipage souffre de maux de tête, de fatigue, d'anxiété et de maladresse.<br><br><strong>Lorsque la réserve d'oxygène est inférieure au nombre total de passagers respirants,</strong> chaque passager respirant doit réussir un Jet de Constitution ou effectuer un <strong>Jet de Mort</strong> en souffrant d'essoufflement, de vertiges, de maux de tête sévères, de troubles visuels et d'acouphènes.<br><br><strong>Une fois la réserve d'oxygène épuisée,</strong> vous pouvez survivre 15 secondes avant de perdre connaissance. Après avoir perdu connaissance, <strong>vous pouvez survivre [[/r 1d5]] minutes sans oxygène avant de mourir.</strong><br><br>Les androïdes ne consomment pas d'oxygène de la réserve. Les personnes en cryosommeil ne réduisent pas la réserve d'oxygène.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}<br><br>@UUID[Compendium.mosh.macros_hotbar_1e.Macro.NsRHfRuuNGPfkYVf]{Jet de Mort}</p>",
+            "treatment": ""
+        },
+        "Coward": {
+            "name": "Lâche",
+            "description": "<p>Vous devez réussir un Jet de Peur pour vous engager dans la violence, sinon vous fuyez.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Jet de Peur}</p>",
+            "treatment": ""
+        },
+        "Vocalization Failure": {
+            "name": "Défaillance Vocale",
+            "description": "<p>Pousse des cris intermittents ressemblant à un télécopieur sous pression. Bascule en morse, ne peut plus communiquer ni se déplacer discrètement.</p>",
+            "treatment": ""
+        },
+        "Broken": {
+            "name": "Brisé",
+            "description": "<p>Effectuez un Test de Panique chaque fois qu'un membre d'équipage proche rate un Jet de Sauvegarde.</p>",
+            "treatment": ""
+        },
+        "Turing Test Failure": {
+            "name": "Échec du Test de Turing",
+            "description": "<p>Difficulté à exprimer son humanité. Les membres du groupe effectuent un Jet de Peur chaque fois que vous apparaissez.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.R2KizR1soAhFYDZm]{Jet de Peur}</p>",
+            "treatment": ""
+        },
+        "Corrosive Atmosphere": {
+            "name": "Atmosphère Corrosive",
+            "description": "<p>Les planètes à atmosphère corrosive nécessitent un équipement spécial pour être explorées, sinon il y a un risque de blessure ou de mort.<br><br>L'atmosphère de la planète est mortelle et destructrice. Elle inflige des Dégâts chaque round. <strong>Cela va de 1 DMG/round <em>(Légèrement Corrosive)</em> à 10 DMG/round <em>(Hautement Corrosive)</em>.</strong> Toute valeur supérieure est tout simplement impossible à traverser sans équipement et armure spécialisés.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.vwpxRBbMwjfDCQVG]{-1 Santé}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.C9iTlPOpROuuYi2F]{-10 Santé}</p>",
+            "treatment": ""
+        },
+        "The Shakes": {
+            "name": "Les Tremblements",
+            "description": "<p>Vous ne pouvez plus garder les mains stables. Désavantage aux attaques à distance et à toutes les tâches nécessitant une motricité fine. Des drogues pourraient aider.</p>",
+            "treatment": ""
+        },
+        "Software Bloat": {
+            "name": "Surcharge Logicielle",
+            "description": "<p>Vous perdez le double de Calme de toutes les sources.</p>",
+            "treatment": ""
+        },
+        "Killswitch Engaged": {
+            "name": "Coupe-Circuit Activé",
+            "description": "<p>Entre en berserk, ne se retirera pas du combat quelle que soit la situation, n'adhérera pas aux tactiques.</p>",
+            "treatment": ""
+        },
+        "Irradiated": {
+            "name": "Irradié",
+            "description": "<p>Que ce soient des rayons cosmiques, une fuite de moteur ou un minerai d'astéroïde inconnu, les radiations peuvent vous tuer si vous n'y prenez pas garde.<br><br><ul><li><strong>Niveau 1 - Radiation Faible</strong><br>Radiation normale, quotidienne, rayons cosmiques. Dégâts : Aucun immédiatement. Effets secondaires possibles à long terme <em>(cancer, etc.).</em></li><li><strong>Niveau 2 - Radiation Aiguë</strong><br>Réacteurs/Noyaux de Distorsion non blindés. Dégâts : Réduisez toutes les Stats et Jets de Sauvegarde de 1 chaque round.</li><li><strong>Niveau 3 - Radiation Létale</strong><br>Armes atomiques, manipulation directe de Noyaux de Distorsion. Dégâts : Chaque round : Jet de Constitution ou dose létale <em>(mort en [[/r 1d5]] jours).</em></li></ul><br>Une armure avec <strong>Blindage Anti-Radiation</strong> <em>(ex. : la Combinaison de Sécurité)</em> bloque les trois niveaux de radiation.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.V1PPeCwryXNQAkUe]{-1 Toutes Stats/Jets}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "treatment": ""
+        },
+        "Social Anxiety": {
+            "name": "Anxiété Sociale",
+            "description": "<p>Perdez 1d10 Calme chaque fois que vous conversez avec quelqu'un de nouveau.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calme}</p>",
+            "treatment": ""
+        },
+        "Emotional Detachment": {
+            "name": "Détachement Émotionnel",
+            "description": "<p>Vous perdez désormais la moitié du Calme <em>(arrondi au supérieur)</em> que vous perdriez normalement de toutes les sources, mais vous gagnez l'Effet de Panique d'un Androïde, en plus de celui de votre propre classe. Si vous êtes un Androïde, gagnez l'Effet de Panique d'un Marine.</p>",
+            "treatment": ""
+        },
+        "Cryosickness": {
+            "name": "Cryomaladie",
+            "description": "<p>Pour endurer de longs voyages spatiaux ou des sauts en hyperespace, les équipages utilisent des caissons cryogéniques qui les plongent dans une animation suspendue appelée cryosommeil. Pendant le cryosommeil, les signes vitaux sont préservés et le vieillissement ralentit. Cependant, au réveil, vous ressentez une sensation similaire à une gueule de bois appelée cryomaladie, qui provoque une léthargie et des réflexes lents. <strong>Tant que vous souffrez de cryomaladie, vous effectuez tous les jets avec [-] pendant 1 semaine.</strong> Des caissons cryogéniques améliorés peuvent atténuer ces effets, et un stimpak peut les guérir instantanément.</p>",
+            "treatment": ""
+        },
+        "Exhausted": {
+            "name": "Épuisé",
+            "description": "<p>De longues et éprouvantes randonnées sur des planètes inconnues peuvent facilement vous user. Si cela devient pertinent, suivez l'épuisement en effectuant un Jet de Constitution toutes les heures après 12 heures d'activité. En cas d'échec, gagnez 1 Stress et subissez 1 Dégât. <strong>Après 24 heures d'épuisement, effectuez tous les jets avec Désavantage jusqu'à ce que vous puissiez vous reposer 8 heures.</strong><br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.vwpxRBbMwjfDCQVG]{-1 Santé}</p>",
+            "treatment": ""
+        },
+        "Losing Your Grip": {
+            "name": "Perte de Contrôle",
+            "description": "<p>Chaque fois que vous effectuez un Jet de SAN, lancez sous votre SAN ou votre Calme, selon le plus bas des deux.</p>",
+            "treatment": ""
+        },
+        "Fried Logic Core": {
+            "name": "Noyau Logique Grillé",
+            "description": "<p>Comportement frénétique et incohérent. Chaque fois que vous perdez du Calme, tous les autres à proximité perdent la même quantité de Calme.</p>",
+            "treatment": ""
+        },
+        "Loss of Confidence": {
+            "name": "Perte de Confiance",
+            "description": "<p>Choisissez une Compétence et perdez le bonus de cette Compétence.</p>",
+            "treatment": ""
+        },
+        "Twitchy": {
+            "name": "Nerveux",
+            "description": "<p>Vos tâches manuelles sont effectuées avec Désavantage.</p>",
+            "treatment": ""
+        },
+        "Rampancy": {
+            "name": "Emballement",
+            "description": "<p>Une fois par session, le Gardien peut prendre le contrôle de votre personnage pendant un round. Ces épisodes doublent de durée <em>(ou deviennent deux fois plus fréquents)</em> à chaque session.</p>",
+            "treatment": ""
+        },
+        "Hallucinations": {
+            "name": "Hallucinations",
+            "description": "<p>Vous avez du mal à distinguer la réalité de la fantasy.</p>",
+            "treatment": ""
+        },
+        "Psychotic Episodes": {
+            "name": "Épisodes Psychotiques",
+            "description": "<p>Une fois par session, le Gardien peut prendre le contrôle de votre personnage pendant un round.</p>",
+            "treatment": ""
+        },
+        "Haunted": {
+            "name": "Hanté",
+            "description": "<p>Quelque chose commence à vous rendre visite la nuit. Dans vos rêves. Du coin de l'œil. Et bientôt cela commencera à exiger quelque chose de vous.</p>",
+            "treatment": ""
+        },
+        "Ethical Directive Failure": {
+            "name": "Défaillance de Directive Éthique",
+            "description": "<p>Vous perdez désormais la moitié du Calme <em>(arrondi au supérieur)</em> que vous perdriez normalement de toutes les sources, mais vous avez maintenant l'Effet de Panique d'un Marine, en plus de celui d'un Androïde.</p>",
+            "treatment": ""
+        },
+        "Bleeding": {
+            "name": "Saignement",
+            "description": "<p>Certaines armes ou Blessures vous font <strong>Saigner</strong>. Cela signifie que vous subissez <strong>1 Dégât par round jusqu'à ce que le saignement soit stoppé.</strong> C'est cumulatif. Si un personnage saigne de 1 Dégât par round et gagne <strong>Saignement +1</strong>, il subit maintenant 2 Dégâts par round. Les dégâts de saignement ignorent l'armure et la réduction de dégâts.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.aur5HWqZJNspwdCd]{Subir les Dégâts de Saignement}</p>",
+            "treatment": ""
+        },
+        "Escapism": {
+            "name": "Escapisme",
+            "description": "<p>Vous avez toujours Désavantage aux Jets de Constitution pour prévenir l'Addiction.</p>",
+            "treatment": ""
+        },
+        "Death Wish": {
+            "name": "Instinct Suicidaire",
+            "description": "<p>Pendant les prochaines 24 heures, chaque fois que vous rencontrez un inconnu ou un ennemi connu, effectuez un Jet de SAN ou attaquez immédiatement.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.TkMfT4RIczQb56j2]{Jet de SAN}</p>",
+            "treatment": ""
+        },
+        "Hypervigilance": {
+            "name": "Hypervigilance",
+            "description": "<p>Gagnez Avantage à tous les jets de surprise, mais perdez 1d10 Calme chaque jour.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.jHyqXb2yDFTNWxpy]{-1d10 Calme}</p>",
+            "treatment": ""
+        },
+        "Faulty Heuristics": {
+            "name": "Heuristiques Défaillantes",
+            "description": "<p>Chaque fois que vous effectuez un Jet de SAN, lancez sous votre SAN ou votre Calme, selon le plus bas des deux.</p>",
+            "treatment": ""
+        },
+        "Extreme Cold": {
+            "name": "Froid Extrême",
+            "description": "<p>Dans la plupart des cas, un climat froid n'a pas d'effets notables. Cependant, dans des endroits de froid extrême, effectuez des Jets de Constitution toutes les heures ou succombez au Froid Extrême.<br><br>En dessous de zéro degré, l'hypothermie et les engelures peuvent s'installer en 10 à 30 minutes pour ceux qui ne sont pas vêtus de façon appropriée. Pour survivre, vous devez ramener votre corps à sa température normale. L'hypothermie peut tuer en 30 minutes à 6 heures.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "treatment": ""
+        },
+        "Deflated": {
+            "name": "Dégonflé",
+            "description": "<p>Chaque fois qu'un membre d'équipage proche rate un Jet de Sauvegarde, gagnez 1 Stress.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.dvJR9DYXI2kV0BbR]{+1 Stress}</p>",
+            "treatment": ""
+        },
+        "Doomed": {
+            "name": "Condamné",
+            "description": "<p>Vous vous sentez maudit et malchanceux. Tous les Succès Critiques deviennent des Échecs Critiques.</p>",
+            "treatment": ""
+        },
+        "Frightened": {
+            "name": "Effrayé",
+            "description": "<p>En rencontrant ce qui vous a effrayé, effectuez un Jet de Peur [-] ou gagnez 1d5 Stress.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.wVhApjRP5MXue2kh]{Jet de Peur [-]}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.Macro.luNKvwmm2tjUJhT6]{+1d5 Stress}</p>",
+            "treatment": ""
+        }
+    }
+}

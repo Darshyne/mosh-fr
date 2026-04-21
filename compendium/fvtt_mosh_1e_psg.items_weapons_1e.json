@@ -1,0 +1,129 @@
+{
+    "label": "Weapons (1e)",
+    "mapping": {
+        "description": "system.description",
+        "woundEffect": "system.woundEffect"
+    },
+    "entries": {
+        "Crowbar": {
+            "name": "Pied-de-biche",
+            "description": "<p>Une barre de fer à extrémité aplatie, utilisée comme levier. Accorde [+] aux Tests de Force pour ouvrir des sas bloqués, soulever des objets lourds, etc.</p>",
+            "woundEffect": "Force Contondante [-]"
+        },
+        "Rigging Gun": {
+            "name": "Pistolet Grappin",
+            "description": "<p>Un outil qui fixe deux matériaux ou plus avec un microfilament de 100 m. Inflige [[/r 2d10]] dégâts lors du retrait. <strong>Jet de Constitution</strong> ou être immobilisé.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "woundEffect": "Saignement [-]"
+        },
+        "General-Purpose Machine Gun": {
+            "name": "Mitrailleuse Polyvalente",
+            "description": "<p>Une mitrailleuse refroidie par air, généralement à alimentation par bande, pouvant s'adapter à divers rôles tactiques. Deux mains requises. Lourde. Le canon peut être manœuvré pour tirer dans les angles.</p>",
+            "woundEffect": "Balle [-]"
+        },
+        "Scalpel": {
+            "name": "Scalpel",
+            "description": "<p>Un instrument dermatologique utilisé pour effectuer des incisions cutanées, des dissections tissulaires et diverses opérations chirurgicales.</p>",
+            "woundEffect": "Saignement [-]"
+        },
+        "Flamethrower": {
+            "name": "Lance-flammes",
+            "description": "<p>Un dispositif incendiaire à distance qui émet un jet de feu contrôlable. <strong>Jet de Constitution [-]</strong> ou prendre feu <em>(2d10 DMG / round)</em>.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.ItHLy3URKFQVLipe]{Jet de Constitution [-]}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.pS6A6OklvM6S3bvO]{-2d10 Santé}</p>",
+            "woundEffect": "Feu & Explosifs [-]"
+        },
+        "Flare Gun": {
+            "name": "Pistolet de Détresse",
+            "description": "<p>Un pistolet à large calibre qui tire des fusées éclairantes, des cartouches à blanc et de la fumée. Généralement utilisé pour envoyer un signal de détresse. La fusée haute intensité est visible de jour comme de nuit à Longue Portée.</p>",
+            "woundEffect": "Feu & Explosifs [+]"
+        },
+        "Nail Gun": {
+            "name": "Cloueuse",
+            "description": "<p>Un pistolet qui enfonce des clous dans du bois ou d'autres matériaux par électromagnétisme.</p>",
+            "woundEffect": "Saignement"
+        },
+        "Combat Knife": {
+            "name": "Couteau de Combat",
+            "description": "<p>Un couteau de combat pour les affrontements au corps à corps ou en mêlée rapprochée.</p>",
+            "woundEffect": "Saignement [-]"
+        },
+        "Hand Welder": {
+            "name": "Chalumeau",
+            "description": "<p>Un chalumeau oxyacétylénique utilisé pour souder le métal. Peut découper des portes de sas.</p>",
+            "woundEffect": "Saignement"
+        },
+        "Pen Knife": {
+            "name": "Canif",
+            "description": "<p>Un couteau dont la lame se replie dans le manche.</p>",
+            "woundEffect": "Saignement [-]"
+        },
+        "Unarmed": {
+            "name": "À Mains Nues",
+            "description": "<p>Mains avec les doigts serrés fermement dans la paume. Inflige For/10 dégâts à Portée Adjacente.</p>",
+            "woundEffect": "Force Contondante"
+        },
+        "Revolver": {
+            "name": "Revolver",
+            "description": "<p>Un pistolet à répétition doté d'un barillet multi-chambres derrière un canon unique.</p>",
+            "woundEffect": "Balle"
+        },
+        "Foam Gun": {
+            "name": "Pistolet à Mousse",
+            "description": "<p>Un pistolet non létal qui projette de la mousse sous pression. <strong>Jet de Constitution</strong> ou être immobilisé. Effectuez un <strong>Test de Force</strong> avec désavantage pour vous dégager.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.X3gqTFFwMe7AudiS]{Jet de Constitution}<br><br>@UUID[Compendium.mosh.macros_triggered_1e.XlfEeDblsp7fTzUx]{Test de Force [-]}</p>",
+            "woundEffect": "Force Contondante"
+        },
+        "SMG": {
+            "name": "Pistolet Mitrailleur",
+            "description": "<p>Une carabine automatique à chargeur conçue pour tirer des cartouches de pistolet. Peut être utilisée d'une seule main.</p>",
+            "woundEffect": "Balle"
+        },
+        "Boarding Axe": {
+            "name": "Hache d'Abordage",
+            "description": "<p>Une hache dotée d'une pointe à l'opposé du tranchant, utilisée pour forcer des serrures et couper des cordes.</p>",
+            "woundEffect": "Mutilation [-]"
+        },
+        "Vibechete": {
+            "name": "Vibromachette",
+            "description": "<p>Un large couteau lourd équipé d'un puissant moteur vibrant. C'est une arme <strong>Anti-Armure</strong> qui ignore et détruit l'armure à chaque touche.</p>",
+            "woundEffect": "Saignement et Mutilation"
+        },
+        "Laser Cutter": {
+            "name": "Découpeur Laser",
+            "description": "<p>Un pistolet émettant un faisceau laser focalisé capable de percer et couper la plupart des matériaux. Deux mains requises. Lourd. 1 round entre chaque tir. Rechargement : 1h <em>(secteur)</em>, 6h <em>(solaire)</em>.</p>",
+            "woundEffect": "Saignement [-] ou Mutilation [-]"
+        },
+        "Fountain Pen (Poison Injector)": {
+            "name": "Stylo Injecteur (Poison)",
+            "description": "<p>Une arme dissimulée sous la forme d'un stylo plume qui délivre une dose létale de poison.</p>",
+            "woundEffect": "Saignement"
+        },
+        "Tranq Pistol": {
+            "name": "Pistolet Tranquillisant",
+            "description": "<p>Un pistolet à fléchettes contenant une cartouche sédative. En cas de touche réussie, l'ennemi doit réussir un <strong>Jet de Constitution</strong> ou être inconscient pendant [[/r 1d10]] rounds.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "woundEffect": "Force Contondante"
+        },
+        "Stun Baton": {
+            "name": "Matraque Électrique",
+            "description": "<p>Une arme polyvalente et non létale d'autodéfense. <strong>Jet de Constitution</strong> ou étourdi 1 round.<br><br>@UUID[Compendium.mosh.macros_triggered_1e.X3gqTFFwMe7AudiS]{Jet de Constitution}</p>",
+            "woundEffect": "Force Contondante"
+        },
+        "Smart Rifle": {
+            "name": "Fusil Intelligent",
+            "description": "<p>Un fusil de précision longue portée. Équipé de munitions <strong>Anti-Armure</strong> qui ignorent et détruisent l'armure à chaque touche. [-] au <strong>Test de Combat</strong> lorsqu'il est utilisé à Courte Portée.</p>",
+            "woundEffect": "Balle [-]"
+        },
+        "Frag Grenade": {
+            "name": "Grenade À Fragmentation",
+            "description": "<p>Une grenade explosive dont le corps en acier est conçu pour se fragmenter en petits éclats létaux et rapides. En cas de touche, tous les personnages Adjacents à la cible subissent des dégâts.</p>",
+            "woundEffect": "Feu & Explosifs"
+        },
+        "Combat Shotgun": {
+            "name": "Fusil à Pompe",
+            "description": "<p>Un fusil à pompe tactique avec un canon plus court, léger et maniable en combat rapproché. Inflige [[/r 1d10]] dégâts à Longue Portée ou au-delà.</p>",
+            "woundEffect": "Balle"
+        },
+        "Pulse Rifle": {
+            "name": "Fusil à Impulsions",
+            "description": "<p>Un fusil de combat entièrement automatique refroidi par air, pour les engagements à courte et moyenne portée.</p>",
+            "woundEffect": "Balle"
+        }
+    }
+}
