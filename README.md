@@ -36,8 +36,11 @@ Activez ensuite le module dans votre monde et passez la langue du client en **Fr
 | Conditions (1e) | 50 conditions |
 | Rolltables (1e) | 14 tables (blessures, panique, maintenance…) |
 | Hotbar Macros (1e) | 11 macros de barre rapide |
+| Hacker's Handbook — Appareils | Compendium `mosh-hackers-handbook.hacking-devices` (nécessite le module [mosh-hackers-handbook](https://github.com/Darshyne/mosh-hackers-handbook)) |
+| Hacker's Handbook — Matériel | Compendium `mosh-hackers-handbook.hacking-equipment` (idem) |
+| Hacker's Handbook — Logiciels | Compendium `mosh-hackers-handbook.hacking-software` (idem) |
 
-La traduction de l'interface du système (stats, jets, menus) est incluse via le fichier `fr.json`.
+La traduction de l'interface du système (stats, jets, menus) est incluse via le fichier `fr.json`. Les traductions Hacker's Handbook n'ont d'effet que si le module `mosh-hackers-handbook` est installé et activé — sinon Babele les ignore silencieusement.
 
 ---
 

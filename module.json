@@ -27,6 +27,12 @@
         "id": "babele",
         "type": "module"
       }
+    ],
+    "recommends": [
+      {
+        "id": "mosh-hackers-handbook",
+        "type": "module"
+      }
     ]
   },
   "languages": [
