@@ -46,8 +46,18 @@ La traduction de l'interface du système (stats, jets, menus) est incluse via le
 
 ## Sources
 
-- Traduction basée sur **Mothership FR COMPLET** — version française officielle du *Player's Survival Guide*
+- Traduction basée sur **Mothership FR COMPLET** — traduction française communautaire (non officielle) du *Player's Survival Guide*
 - Système Foundry : [fvtt_mosh_1e_psg](https://foundryvtt.com/packages/mosh) par Tuesday Knight Games
+
+---
+
+## Mentions légales
+
+Ce module est un projet **non officiel**, non affilié à Tuesday Knight Games.
+Mothership© est la propriété de Tuesday Knight Games —
+[tuesdayknightgames.com](https://www.tuesdayknightgames.com/). Tous les
+droits et marques associés appartiennent à leurs propriétaires respectifs.
+Ce module est distribué gratuitement à but non commercial.
 
 ---
 
