@@ -8,7 +8,7 @@ Module de traduction française du système **Mothership RPG (1ère édition)** 
 
 - [Foundry VTT](https://foundryvtt.com/) v13+
 - Système [Mothership](https://foundryvtt.com/packages/mosh) (mosh)
-- Module [Babele](https://foundryvtt.com/packages/babele/) v3+
+- Module [Babele](https://foundryvtt.com/packages/babele/) 2.7.x (compatible Foundry V13 ; les versions 2.8+ ciblent Foundry V14)
 
 ---
 
